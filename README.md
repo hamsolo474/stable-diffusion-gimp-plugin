@@ -22,3 +22,4 @@ Look into parent repository https://github.com/sddebz/stable-diffusion-krita-plu
 
 ### Usage
 With an Image open, go to Image > stable-diffusion > txt2img
+![image](https://user-images.githubusercontent.com/2120738/191792989-7d9cbd08-ae8d-42a1-927e-96ddd62f0f44.png)
